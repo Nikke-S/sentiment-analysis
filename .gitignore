@@ -1,0 +1,31 @@
+# ======================
+# Python
+# ======================
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# ======================
+# Node.js
+# ======================
+node_modules/
+dist/
+build/
+
+# ======================
+# OS / Editor
+# ======================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ======================
+# Documents
+# ======================
+*.pdf
+*.doc
+*.docx
